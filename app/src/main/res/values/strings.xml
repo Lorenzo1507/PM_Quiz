@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PM_Quiz</string>
+    <string name="no_account">Não tem uma conta? <b>Cadastre-se</b>.</string><!--Fazer string específica em negrito-->
+</resources>
